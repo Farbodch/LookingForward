@@ -1,5 +1,5 @@
 # LookingForward
-Univeristy of British Columbia, IGEN 230 Design Project
+University of British Columbia, IGEN 230 Design Project
 Spring 2019 - Presented April 4th/2019
 A proof-of-concept collision avoidance system implemented on a skateboard.
 Inputs:   Distance from LiDAR Lite V3, Angle from Tower Pro SG90 Servo, Yaw/Pitch/Roll from MPU6050's Gyro.
