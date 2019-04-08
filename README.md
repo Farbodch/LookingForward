@@ -15,7 +15,7 @@ Process:
 
           skateboard) from gyro stored; derivative of vectors * distance = seconds to impact (SOI) to nearest object
           
-          in current trajectory. SOI = 2.2s is set as the danger threshhold (based on research & experimention).
+          in current trajectory. SOI = 2.2s is set as the danger threshhold (based on research & experimention - refer to report).
           
 Outputs:  
 
