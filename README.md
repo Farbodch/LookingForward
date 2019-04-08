@@ -22,3 +22,5 @@ Outputs:
           Piezo Buzzer alarming the user, with frequency mapped to increase as SOI decreases.
 
 Link to final report: https://drive.google.com/open?id=18kKv8XsAvu9eewQbNph3zWeGGHRPOC1O
+
+-Program By: Farbod Chamanian
