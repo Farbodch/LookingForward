@@ -1,5 +1,7 @@
 //UBC - IGEN 230 - Group 10 - LookingForward
 //Spring 2019 - Presented April 4th/2019
+//Program By: Farbod Chamanian
+//
 //A proof-of-concept collision avoidance system implemented on a skateboard.
 //Inputs:   Distance from LiDAR Lite V3, Angle from Tower Pro SG90 Servo, Yaw/Pitch/Roll from MPU6050's Gyro.
 //Process:  Time stamped vectors pointing to nearby obstacles, with angle offsets (due to dynamic nature of a moving 
